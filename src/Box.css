@@ -1,0 +1,10 @@
+.Box-container {
+    display: flex; 
+    margin: 10px;
+  }
+  
+  .X {
+    font-size: 24px;
+    margin-left: 10px;
+    cursor: pointer;
+  }

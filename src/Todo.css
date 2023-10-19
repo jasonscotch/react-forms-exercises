@@ -1,0 +1,19 @@
+.Todo-container {
+    display: flex; 
+    margin: 10px;
+    align-items: center;
+  }
+  
+  .X {
+    font-size: 24px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+
+  .Todo-completed {
+    text-decoration: line-through;
+  }
+
+  button {
+    margin: 10px;
+  }

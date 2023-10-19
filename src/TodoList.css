@@ -1,0 +1,24 @@
+.TodoList {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .TodoList-div {
+    margin-top: 50px;
+    margin: 25px;
+    font-weight: bold;
+    justify-content: center;
+  }
+  
+  form label {
+      margin: 10px;
+  }
+  form input {
+      margin: 5px;
+  }
+  form button {
+      margin: 5px;
+  }
